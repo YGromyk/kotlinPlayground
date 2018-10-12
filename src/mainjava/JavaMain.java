@@ -1,6 +1,6 @@
 package mainjava;
 
-import kotlin.sandbox.ChildB;
+import kotlinplayground.sandbox.ChildB;
 
 public class JavaMain {
     public static void main(String[] args) {
